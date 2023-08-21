@@ -1,4 +1,5 @@
 moved to stage
 go to tumkur
 creat repositry
+add changes
 
